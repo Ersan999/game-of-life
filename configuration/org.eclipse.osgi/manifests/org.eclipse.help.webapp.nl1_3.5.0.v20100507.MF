@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Generated-from: 1378396554000;type=4
+Bundle-ManifestVersion: 2
+Bundle-Name: Help System Webapp NL Support
+Bundle-SymbolicName: org.eclipse.help.webapp.nl1
+Bundle-Version: 3.5.0.v20100507
+Bundle-ClassPath: nl1.jar,
+ $nl$/
+Fragment-Host: org.eclipse.help.webapp;bundle-version="[3.5.0.v20100507,4.0.0)"
+Bundle-Localization: plugin

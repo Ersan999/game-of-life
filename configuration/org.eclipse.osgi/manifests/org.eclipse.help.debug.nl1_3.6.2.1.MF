@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Generated-from: 1378396554000;type=4
+Bundle-ManifestVersion: 2
+Bundle-Name: Debuger NL Support
+Bundle-SymbolicName: org.eclipse.help.debug.nl1
+Bundle-Version: 3.6.2.1
+Fragment-Host: org.eclipse.help.debug;bundle-version="[3.6.2.1,4.0.0)"
+Bundle-Localization: plugin

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Generated-from: 1378396554000;type=4
+Bundle-ManifestVersion: 2
+Bundle-Name: Install/Update Configurator NL Support
+Bundle-SymbolicName: org.eclipse.update.configurator.nl1
+Bundle-Version: 3.3.100.v20100512
+Bundle-ClassPath: nl1.jar
+Fragment-Host: org.eclipse.update.configurator;bundle-version="[3.3.100.v20100512,4.0.0)"
+Bundle-Localization: plugin
